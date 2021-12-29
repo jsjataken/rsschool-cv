@@ -11,11 +11,11 @@
 
 ## Work experience — 5 years
 
-1### NTK "Energomash"
+### NTK "Energomash"
 ##### September 2021-  to the present
 #### Foreign trade Specialist\Marketing
 
-2### Educational center "Razvitie"
+### Educational center "Razvitie"
 https://centr-razvitie.by/
 ##### August 2020 - September 2021
 #### EMC Specialist
@@ -32,7 +32,7 @@ https://centr-razvitie.by/
 * Forming a customer base and working with them.
 * Consultations on debugging business processes within the company.
 
-3### APS
+### APS
 https://aps-solver.com/
 #####August 2019-August 2020
 
@@ -45,8 +45,8 @@ https://aps-solver.com/
 * Communication with drivers and foreign clients.
 * Building a customer base
 
-4### Gymnasium No. 2
-#####August 2017 - August 2019 2 years 1 month
+### Gymnasium No. 2
+##### August 2017 - August 2019 2 years 1 month
 
 ###English Teacher 
 * Teaching English as a foreign language.
