@@ -1,6 +1,6 @@
 # Kapustin Maxim
 
-[![921-oooo-plus.png](https://i.postimg.cc/hP13M1kz/921-oooo-plus.png)](https://postimg.cc/7fbVZ0Yw)
+[![921-oooo-plus-k-XD9h.png](https://i.postimg.cc/c1gvQD8h/921-oooo-plus-k-XD9h.png)](https://postimg.cc/Z0mYmxHv)
  
 
 ### +375 (44) 7747003
