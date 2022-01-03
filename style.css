@@ -1,9 +1,11 @@
-body, html { width: 100%; height: 100%; }
+ body, html { width: 100%; height: 100%; 
+}
+
 #column-1 {
 width: 20%;
 background: whitesmoke;
 float: left;
-min-height: 365%;
+min-height: 345%;
 padding: 0px;
 margin: 0px;
 border: 0px;
@@ -21,7 +23,7 @@ border: 0px;
 }
 #column-3 {
 width: 20%;
-min-height: 365%;
+min-height:345%;
 float: left;
 background:whitesmoke;
 }
@@ -52,9 +54,9 @@ header{
 }
 #headitem1 {
     color:#fff;
-    width: 90%;
+    width: 40%;
     min-height: 90%;
-    float: left;
+    float: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align:left;
     font-weight: bold;
@@ -62,11 +64,11 @@ header{
     margin:0px 20px;
     font-size: 32px;
     border-bottom: 2px solid white ;
-    margin-top: 0px;
+    
 }
 img {
     float:left;
-    margin: 20px;
+    margin: 10px 20px;
     width: 150px;
     height: 150px;
     }
@@ -155,25 +157,20 @@ a{
     margin:0px;
     font-size: 14px;
 }
-#footer{
-    background: #00f2fe;
-    clear:both;
-    height: 200px;
-    margin-top:0px;
-    width:auto;
-    margin-left:0px;
-    margin-right:0px;
-    color: #fff;
-    width: 100%;
-    min-height: 100%;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align:center;
-    font-weight:600;
-    padding:0px;
-    margin:0px;
-    font-size: 24px;
-    float:center;
+.footer{
+    display:flex;
+    flex-direction:row-reverse;
+    position:relative;
+    justify-content: center; 
+    align-items: center; 
+    width: 200px;
+    height:fit-content;
+    overflow: hidden; 
+    margin: 1rem auto 2rem;
+
     }
+
+
 #space{
     margin-bottom: 20px;
 }
@@ -200,11 +197,10 @@ a{
   left: 240px;
   right: 260px;
   top: 20px;
-  bottom: 20px;
-  
- 
-    
+  bottom: 20px;  
 }
+
 h1{
     text-align: center;
 }    
+ 
