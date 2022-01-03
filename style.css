@@ -1,0 +1,206 @@
+ body, html { width: 100%; height: 100%; 
+}
+
+#column-1 {
+width: 20%;
+background: whitesmoke;
+float: left;
+min-height: 345%;
+padding: 0px;
+margin: 0px;
+border: 0px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#column-2 {
+    background:linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+    width: 60%;
+    min-height: 100%;
+    float:left;
+}
+#column-3 {
+width: 20%;
+min-height:345%;
+float: left;
+background:whitesmoke;
+}
+header{ 
+    color:#fff;
+    background:linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+    width: 100%;
+    min-height: 100%;
+    float: left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+   opacity: 0.8;
+}
+
+#headitem {
+    color:#fff;
+    width: 90%;
+    min-height: 90%;
+    float: left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:left;
+    font-weight: bold;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 0px 20px;
+    font-size: 24px;
+    border-bottom: 2px solid white ;
+    
+}
+#headitem1 {
+    color:#fff;
+    width: 40%;
+    min-height: 90%;
+    float: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:left;
+    font-weight: bold;
+    padding:0px 20px;
+    margin:0px 20px;
+    font-size: 32px;
+    border-bottom: 2px solid white ;
+    
+}
+img {
+    float:left;
+    margin: 10px 20px;
+    width: 150px;
+    height: 150px;
+    }
+    ul{
+    display: inline-block;
+    overflow:visible;
+    position: relative;
+    margin-left: 20px;
+    width: 60%;
+    
+    }
+    
+    ul li {
+    line-height: 1.4em;
+    justify-content: space-between;
+    }
+    #item{
+    color:#fff;
+    width: 90%;
+    min-height: 90%;
+    float: left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:left;
+    font-weight:400;
+    padding:20px;
+    margin:20px;
+    font-size: 14px;
+    border-bottom: 2px solid white ;
+    margin-top: 0px;
+    }
+#highheader{
+    color:#fff;
+    width: 90%;
+    min-height: 90%;
+    float: left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:left;
+    font-weight:600;
+    padding:20px 20px 20px 20px;
+    margin:0px 20px 20px 20px ;
+    font-size: 32px;
+ 
+}
+#header1 {
+    color:#fff;
+    width: 90%;
+    min-height: 90%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:left;
+    font-weight:600;
+    padding:5px 20px;
+    margin:5px 20px;
+    font-size: 24px;
+ 
+}
+#header2{
+    color:#fff;
+    width: 90%;
+    min-height: 90%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:left;
+    font-weight:600;
+    padding:5px 20px;
+    margin:5px 20px;
+    font-size: 18px;
+}
+#header3 {
+    color:#fff;
+    width: 90%;
+    min-height: 90%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:left;
+    font-weight:600;
+    padding:5px 20px;
+    margin:5px 20px;
+    font-size: 14px;
+}
+a{
+    color:#fff;
+    width: 90%;
+    min-height: 90%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:left;
+    font-weight:600;
+    padding:0px;
+    margin:0px;
+    font-size: 14px;
+}
+.footer{
+    display:flex;
+    flex-direction:row-reverse;
+    position:relative;
+    justify-content: center; 
+    align-items: center; 
+    width: 200px;
+    height:fit-content;
+    overflow: hidden; 
+    margin: 1rem auto 2rem;
+
+    }
+
+
+#space{
+    margin-bottom: 20px;
+}
+#code{
+    background-color: rgba(128, 128, 128, 0.527);
+    border: 20px solid #00f2fe;
+    border-top:0px;
+    border-bottom:0px;
+    border-right:0px;
+    color: #fff;
+    width: 80%;
+    min-height: 90%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:left;
+    font-weight:600;
+    padding:20px 20px;
+    margin:20px 20px;
+    font-size: 14px;
+}
+#logo{
+    margin: auto;
+    padding: auto;
+  position: relative;
+  left: 240px;
+  right: 260px;
+  top: 20px;
+  bottom: 20px;  
+}
+
+h1{
+    text-align: center;
+}    
+ 
